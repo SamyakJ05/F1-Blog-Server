@@ -1,4 +1,5 @@
 {
+  "name": "blog-server",
   "compatibility_date": "2025-01-01",
-  "nodejs_compat": true
+  "main": "dist/app.js"
 }
