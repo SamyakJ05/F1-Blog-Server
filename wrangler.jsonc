@@ -2,5 +2,7 @@
   "name": "blog-server",
   "compatibility_date": "2025-01-01",
   "main": "dist/app.js",
-  "nodejs_compat": true
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
 }
