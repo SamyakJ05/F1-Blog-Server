@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Race Reviews",
+      "slug": "race-reviews",
+      "description": "Race previews, reviews, and analysis",
+      "color": "#EF4444"
+    },
+    {
+      "id": "2",
+      "name": "Driver Profiles",
+      "slug": "driver-profiles",
+      "description": "In-depth profiles of F1 drivers",
+      "color": "#10B981"
+    },
+    {
+      "id": "3",
+      "name": "Team News",
+      "slug": "team-news",
+      "description": "Latest updates from F1 teams",
+      "color": "#FF8000"
+    },
+    {
+      "id": "4",
+      "name": "Tech Analysis",
+      "slug": "tech-analysis",
+      "description": "Deep dives into F1 technology and engineering",
+      "color": "#0057B8"
+    }
+  ]
+}
